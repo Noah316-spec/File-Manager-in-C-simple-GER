@@ -1,0 +1,10 @@
+C:\Users\nassnode\source\repos\Urlaub_Prüfen\Urlaub_Prüfen\bin\Debug\Urlaub_Prüfen.exe.config
+C:\Users\nassnode\source\repos\Urlaub_Prüfen\Urlaub_Prüfen\bin\Debug\Urlaub_Prüfen.exe
+C:\Users\nassnode\source\repos\Urlaub_Prüfen\Urlaub_Prüfen\bin\Debug\Urlaub_Prüfen.pdb
+C:\Users\nassnode\source\repos\Urlaub_Prüfen\Urlaub_Prüfen\obj\Debug\Urlaub_Prüfen.csproj.AssemblyReference.cache
+C:\Users\nassnode\source\repos\Urlaub_Prüfen\Urlaub_Prüfen\obj\Debug\Urlaub_Prüfen.Form1.resources
+C:\Users\nassnode\source\repos\Urlaub_Prüfen\Urlaub_Prüfen\obj\Debug\Urlaub_Prüfen.Properties.Resources.resources
+C:\Users\nassnode\source\repos\Urlaub_Prüfen\Urlaub_Prüfen\obj\Debug\Urlaub_Prüfen.csproj.GenerateResource.cache
+C:\Users\nassnode\source\repos\Urlaub_Prüfen\Urlaub_Prüfen\obj\Debug\Urlaub_Prüfen.csproj.CoreCompileInputs.cache
+C:\Users\nassnode\source\repos\Urlaub_Prüfen\Urlaub_Prüfen\obj\Debug\Urlaub_Prüfen.exe
+C:\Users\nassnode\source\repos\Urlaub_Prüfen\Urlaub_Prüfen\obj\Debug\Urlaub_Prüfen.pdb
