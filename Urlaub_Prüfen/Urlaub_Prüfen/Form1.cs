@@ -17,7 +17,7 @@ namespace Urlaub_Prüfen
   
     public partial class Form1 : Form
     {
-        private string filePath = "C:\\Users\\nassnode"; // ihr dateipfad 
+        private string filePath = "ihrPfad"; // ihr dateipfad 
         private bool isFile = false;
         private string currentlySelectediteme = "";
         public Form1()
